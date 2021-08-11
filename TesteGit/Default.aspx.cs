@@ -11,7 +11,7 @@ namespace TesteGit
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            int numero = 0;
         }
     }
 }
